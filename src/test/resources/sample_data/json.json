@@ -1,0 +1,27 @@
+{
+  "targetSchema": {
+    "events": [
+      {
+        "data": {
+          "transform": {
+            "applicant": {
+              "person": {
+                "legalName": {
+                  "givenName": "",
+                  "familyName1": ""
+                },
+                "legalAddress": {
+                  "lineOne": "",
+                  "cityName": "",
+                  "countrySubdivisionLevel1": {
+                    "age": ""
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
